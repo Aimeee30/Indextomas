@@ -1,0 +1,75 @@
+{"menu":[
+    {
+    "id":1,
+    "Nombre":"Hamburguesa",
+    "Descripcion":"Doble carne con tocino,queso amarillo,Aguacate",
+     "Precio" :100,
+     "Imagen":"hamburguesa.jpg"
+    },
+{
+    "id":2,
+    "Nombre":"Sopes",
+    "Descripcion":"Frijoles,Queso,Crema,Lechuga picada",
+     "Precio" :25,
+     "Imagen":"img/sopes.jpg"
+    },
+{
+    "id":3,
+    "Nombre":"Boneles",
+    "Descripcion":"Salsa de champinon,Chipotle,Bufalo,a la Diabla",
+     "Precio" :70,
+     "Imagen":"img/boneles.jpg"
+    },
+{
+    "id":4,
+    "Nombre":"Menudo",
+    "Descripcion":"Extra cuerito,Tortillas de maiz,Chile seco,Limon",
+     "Precio" :55,
+     "Imagen":"img/menudo.jpg"
+    },
+{
+    "id":5,
+    "Nombre":"Gorditas",
+    "Descripcion":"Chicharron,Trompo,Huevo ala mexicana,Bistec",
+     "Precio" :30,
+     "Imagen":"img/gorditas.jpg"
+    },
+{
+    "id":6,
+    "Nombre":"Sushi",
+    "Descripcion":"Arroz blanco,Pescado,Camaron",
+     "Precio" :80,
+     "Imagen":"img/sushi.jpg"
+    },
+{ 
+    "id":7,
+    "Nombre":"Tortas",
+    "Descripcion":"Jamon,Aguacate,Carne con chipotle,Trompo,Bistec",
+     "Precio" :25,
+     "Imagen":"img/tortas.jpg"
+    },
+{
+    "id":8,
+    "Nombre":"Pizza",
+    "Descripcion":"Chicharron,Peperoni,Hawaiana,Italiana,Extra queso",
+     "Precio" :89,
+     "Imagen":"img/pizza.jpg"
+    },
+{
+        "id":9,
+        "Nombre":"Lasagna",
+        "Descripcion":"Carne molida con zanahoria,con papa picada,Extra queso",
+         "Precio" :96,
+         "Imagen":"img/lasagnas.jpg"
+        },
+{
+            "id":10,
+            "Nombre":"Papa asada",
+            "Descripcion":"Mixta,Trompo,Bistec,Extra queso",
+             "Precio" :90,
+             "Imagen":"img/papa.jpg"
+            }
+
+
+]
+}
